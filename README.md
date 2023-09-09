@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming.
 - 💻 I’m currently learning Python and Ethical Hacking.
 - 📧 eren.balci2111@gmail.com
-- 📌 https://github.com/ereenblc
+
 
 <!---
 ereenblc/ereenblc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
